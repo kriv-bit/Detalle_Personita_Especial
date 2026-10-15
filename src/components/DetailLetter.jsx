@@ -57,7 +57,7 @@ export default function DetailLetter({ onReset }) {
         </div>
 
         <p className="text-slate-700 text-sm sm:text-base leading-relaxed font-medium">
-          Un empujoncito dulce para que lo disfrutes en medio de tus pendientes... Tómate un minutito y abre lo que preparé para ti:
+          Un empujoncito dulce para que lo disfrutes en medio de tus pendientes... Tómate un minutito y abre el mensajito:
         </p>
 
         {/* Expandable heartfelt card */}
@@ -70,7 +70,7 @@ export default function DetailLetter({ onReset }) {
               className="py-3 px-6 rounded-2xl font-heading font-semibold text-white bg-gradient-to-r from-sky-500 to-sky-700 shadow-md shadow-sky-400/40 flex items-center justify-center gap-2 mx-auto text-sm"
             >
               <MailOpen className="w-4 h-4" />
-              <span>Abrir carta para mi Shofis 💌</span>
+              <span>Abrir mensajito &lt;3</span>
             </motion.button>
           ) : (
             <motion.div
