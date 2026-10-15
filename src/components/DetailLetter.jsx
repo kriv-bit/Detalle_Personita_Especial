@@ -91,6 +91,9 @@ export default function DetailLetter({ onReset }) {
               <p>
                 Gracias por permitirme cuidarte y por cada sonrisa que me regalas. Espero que podamos seguir escribiendo una linda historia juntos.
               </p>
+              <p className="text-sky-600 font-bold text-2xl pt-1">
+                Me encantas :3
+              </p>
               <p className="text-right text-sky-800 font-bold text-2xl pt-2">
                 — Kevin
               </p>
